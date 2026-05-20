@@ -28,11 +28,13 @@ type SearchableSelectProps = {
 } & (
   | {
       multiple?: false;
+      clearable?: boolean;
       value?: SKUOption;
       onChange: (value: SKUOption) => void;
     }
   | {
       multiple: true;
+      clearable?: boolean;
       value?: SKUOption[];
       onChange: (value: SKUOption[]) => void;
     }
@@ -44,6 +46,7 @@ export default function SearchableSelect({
   value,
   onChange,
   multiple = false,
+  clearable = false,
 }: SearchableSelectProps) {
   const [open, setOpen] = React.useState(false);
 
@@ -59,13 +62,15 @@ export default function SearchableSelect({
             aria-expanded={open}
             className="w-full justify-between border-slate-700 bg-slate-900/90 text-slate-100 hover:border-slate-500 hover:bg-slate-900/80 hover:text-slate-100 focus-visible:ring-slate-500/40"
           >
-            {Array.isArray(value)
-              ? value.length > 0
-                ? value.map((item) => item.label).join(", ")
-                : `Select ${label}`
-              : value
-                ? value.label
-                : `Select ${label}`}
+            <span className="min-w-0 overflow-hidden text-ellipsis whitespace-nowrap">
+              {Array.isArray(value)
+                ? value.length > 0
+                  ? value.map((item) => item.label).join(", ")
+                  : `Select ${label}`
+                : value
+                  ? value.label
+                  : `Select ${label}`}
+            </span>
 
             <ChevronsUpDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
           </Button>
@@ -73,9 +78,32 @@ export default function SearchableSelect({
 
         <PopoverContent className="w-full p-0">
           <Command>
-            <CommandInput placeholder={`Search ${label}...`} />
+            <div className="p-2">
+              <div className="flex items-center gap-2">
+                <div className="min-w-0 flex-1">
+                  <CommandInput
+                    className="w-full"
+                    placeholder={`Search ${label}...`}
+                  />
+                </div>
 
-            <CommandList>
+                {clearable && Array.isArray(value) && value.length > 0 ? (
+                  <Button
+                    variant="ghost"
+                    size="sm"
+                    className="h-8 px-2 text-xs text-slate-300"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      (onChange as (v: SKUOption[]) => void)([]);
+                    }}
+                  >
+                    Clear
+                  </Button>
+                ) : null}
+              </div>
+            </div>
+
+            <CommandList className="max-h-60 overflow-auto">
               <CommandEmpty>No result found.</CommandEmpty>
 
               <CommandGroup>

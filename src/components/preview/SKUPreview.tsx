@@ -32,7 +32,10 @@ export default function SKUPreview({ sku, title, onReset }: Props) {
         <div>
           <p className="text-sm text-slate-500">SKU Code FINAL</p>
 
-          <h1 className="mt-1 text-3xl font-bold tracking-wide">
+          <h1
+            className="mt-1 text-3xl font-bold tracking-wide truncate block max-w-full"
+            title={sku || undefined}
+          >
             {sku || "N/A"}
           </h1>
         </div>

@@ -44,10 +44,8 @@ export default function SKUBuilder() {
     ? items.filter((itemOption) => itemOption.categoryId === sku.categoryId)
     : items;
 
-  // Additional item options should also follow SKU category filtering.
-  const filteredAdditionalItems = sku
-    ? additionalItems.filter((option) => option.categoryId === sku.categoryId)
-    : additionalItems;
+  // Additional items do not use category filtering — always show full list.
+  const filteredAdditionalItems = additionalItems;
 
   const normalizedPrefixes = normalizeOptionLabels(prefixes);
   const normalizedMakes = normalizeOptionLabels(filteredMakes);
@@ -115,6 +113,7 @@ export default function SKUBuilder() {
           value={additionalItem}
           onChange={setAdditionalItem}
           multiple
+          clearable
         />
       </div>
 

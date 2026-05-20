@@ -2,13 +2,240 @@
   {
     "id": "flush-led",
     "label": "Flush LED",
-    "value": "FL",
-    "categoryId": "truck"
+    "value": "FL"
   },
   {
     "id": "slim-led",
     "label": "Slim LED",
-    "value": "SL",
-    "categoryId": "truck"
+    "value": "SL"
+  },
+  {
+    "id": "multifunction-led",
+    "label": "Multifunction LED",
+    "value": "ML"
+  },
+
+  {
+    "id": "spots-71w",
+    "label": "Spots (71W)",
+    "value": "71W"
+  },
+  {
+    "id": "spots-71b",
+    "label": "Spots (71B)",
+    "value": "71B"
+  },
+  {
+    "id": "spots-71g",
+    "label": "Spots (71G)",
+    "value": "71G"
+  },
+  {
+    "id": "led-spots-71lw",
+    "label": "LED Spots (71LW)",
+    "value": "71LW"
+  },
+
+  {
+    "id": "black-spots-1036",
+    "label": "Black Spots - 1036",
+    "value": "36"
+  },
+  {
+    "id": "embg-spots-1033",
+    "label": "EMBG Spots - 1033",
+    "value": "33"
+  },
+  {
+    "id": "rectangle-chrome-1032",
+    "label": "Rectangle Chrome - 1032",
+    "value": "32"
+  },
+  {
+    "id": "rugby-ball-1034",
+    "label": "Rugby Ball - 1034",
+    "value": "34"
+  },
+  {
+    "id": "8-inch-spot",
+    "label": "8\" Spot",
+    "value": "38"
+  },
+  {
+    "id": "spot-qty-4or6",
+    "label": "Spot QTY (4 or 6)",
+    "value": "4or6"
+  },
+
+  {
+    "id": "amber-led-flashing-beacon",
+    "label": "Amber LED Flashing Beacon",
+    "value": "B"
+  },
+  {
+    "id": "clear-led-flashing-beacon",
+    "label": "Clear LED Flashing Beacon",
+    "value": "CB"
+  },
+
+  {
+    "id": "6-5-spots-1043",
+    "label": "6.5\" Spots 1043",
+    "value": "43"
+  },
+  {
+    "id": "round-spots-chrome-1029",
+    "label": "Round Spots Chrome 1029",
+    "value": "29"
+  },
+  {
+    "id": "rectangle-spots-1044",
+    "label": "Rectangle Spots 1044",
+    "value": "44"
+  },
+  {
+    "id": "round-led-spots-1161",
+    "label": "Round LED Spots 1161",
+    "value": "61"
+  },
+  {
+    "id": "oval-led-spots-1162",
+    "label": "Oval LED Spots 1162",
+    "value": "62"
+  },
+  {
+    "id": "oval-led-spots-brae1071-led",
+    "label": "Oval LED Spots BRAE1071-LED",
+    "value": "BRAE1071-LED"
+  },
+  {
+    "id": "oval-led-spots-brae1071-led-black",
+    "label": "Oval LED Spots BRAE1071-LED-BLACK",
+    "value": "BRAE1071-LED-BLACK"
+  },
+
+  {
+    "id": "without-brackets",
+    "label": "Without Brackets",
+    "value": "W/OB"
+  },
+
+  {
+    "id": "6-6-bragan-led-bar",
+    "label": "6.6 Bragan LED Bar",
+    "value": "6"
+  },
+  {
+    "id": "16-lazer-led-bar",
+    "label": "16 Lazer LED Bar",
+    "value": "16"
+  },
+  {
+    "id": "17-5-bragan-led-bar",
+    "label": "17.5 Bragan LED Bar",
+    "value": "17"
+  },
+  {
+    "id": "17-inch-led-bar",
+    "label": "17\" LED Bar",
+    "value": "19"
+  },
+  {
+    "id": "20-inch-led-bar",
+    "label": "20\" LED Bar",
+    "value": "20"
+  },
+  {
+    "id": "22-9-bragan-led-bar",
+    "label": "22.9 Bragan LED Bar",
+    "value": "22"
+  },
+
+  {
+    "id": "strobe-white",
+    "label": "Strobe White",
+    "value": "SW"
+  },
+  {
+    "id": "strobe-amber",
+    "label": "Strobe Amber",
+    "value": "SA"
+  },
+  {
+    "id": "strobe-lights-unknown",
+    "label": "Strobe lights (No color indicated)",
+    "value": "STB"
+  },
+
+  { "id": "horn", "label": "Horn", "value": "H" },
+  { "id": "9-drk", "label": "9\" DRL", "value": "24" },
+
+  {
+    "id": "tonneau-cover",
+    "label": "Tonneau Cover",
+    "value": "TC"
+  },
+  {
+    "id": "long-bed-tonneau-cover",
+    "label": "Long Bed Tonneau Cover",
+    "value": "TCL"
+  },
+  {
+    "id": "short-curved-tonneau-cover",
+    "label": "Short Curved Tonneau Cover",
+    "value": "TCSC"
+  },
+
+  {
+    "id": "3-function-led",
+    "label": "3 function LED",
+    "value": "734"
+  },
+  {
+    "id": "flush-led-holes",
+    "label": "Flush LED Holes",
+    "value": "LED"
+  },
+
+  {
+    "id": "long-wheel-base",
+    "label": "Long Wheel Base",
+    "value": "L"
+  },
+  {
+    "id": "short-wheel-base",
+    "label": "Short Wheel Base",
+    "value": "S"
+  },
+  {
+    "id": "medium-wheel-base",
+    "label": "Medium Wheel Base",
+    "value": "M"
+  },
+  {
+    "id": "extra-long-wheel-base",
+    "label": "Extra Long Wheel Base",
+    "value": "EL"
+  },
+
+  { "id": "no-logo", "label": "NO LOGO", "value": "NL" },
+  {
+    "id": "detachable",
+    "label": "Detachable",
+    "value": "DL"
+  },
+  { "id": "type-a", "label": "Type A", "value": "A" },
+  { "id": "type-b", "label": "Type B", "value": "B" },
+  { "id": "type-c", "label": "Type C", "value": "C" },
+  {
+    "id": "use-for-black-items",
+    "label": "Use for black items",
+    "value": "BLACK"
+  },
+  { "id": "curved", "label": "Curved", "value": "C" },
+  {
+    "id": "non-weld",
+    "label": "NON WELD",
+    "value": "NW"
   }
 ]
