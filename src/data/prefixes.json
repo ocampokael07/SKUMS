@@ -1,0 +1,53 @@
+[
+  {
+    "id": "lights",
+    "label": "Lights",
+    "value": "BRA1",
+    "categoryId": "lights"
+  },
+  { "id": "truck", "label": "Truck", "value": "BRA2", "categoryId": "truck" },
+  {
+    "id": "van-mpv",
+    "label": "Van/MPV",
+    "value": "BRA3",
+    "categoryId": "van-mpv"
+  },
+  { "id": "suv", "label": "4x4/SUV", "value": "BRA4", "categoryId": "4x4" },
+  {
+    "id": "brackets",
+    "label": "Brackets",
+    "value": "BRAX",
+    "categoryId": "brackets"
+  },
+  {
+    "id": "fitting-kits",
+    "label": "Fitting Kits",
+    "value": "BRAXH",
+    "categoryId": "fitting-kits"
+  },
+  {
+    "id": "spare-parts",
+    "label": "Spare Parts",
+    "value": "BRASP",
+    "categoryId": "spare-parts"
+  },
+  {
+    "id": "promotional-items",
+    "label": "Promotional Items",
+    "value": "BRAPR",
+    "categoryId": "promotional-items"
+  },
+  {
+    "id": "mudflaps",
+    "label": "Mudflaps",
+    "value": "BRA",
+    "categoryId": "mudflaps"
+  },
+  {
+    "id": "bolts-spacers-nuts",
+    "label": "Bolts, Spacers, Nuts etc",
+    "value": "BRAB",
+    "categoryId": "bolts-spacers-nuts"
+  },
+  { "id": "adhoc", "label": "Adhoc", "value": "BRAAH", "categoryId": "adhoc" }
+]

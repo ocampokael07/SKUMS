@@ -1,0 +1,476 @@
+[
+  {
+    "id": "truck-roofbar",
+    "label": "eu / Roof Bar",
+    "value": "1",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-grillbar",
+    "label": "Grill Bar",
+    "value": "2",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-bumper-bar-short",
+    "label": "Bumper Bar - Short",
+    "value": "3",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-side-bar",
+    "label": "Side Bar",
+    "value": "4",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-perimeter-kit",
+    "label": "Perimeter Kit",
+    "value": "5",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-rear-roof-bar",
+    "label": "Rear Roof Bar",
+    "value": "6",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-visor-bar",
+    "label": "Visor Bar",
+    "value": "7",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-window-deflectors",
+    "label": "Window Deflectors",
+    "value": "8",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-sunvisor",
+    "label": "Sunvisor",
+    "value": "9",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-led-light-board",
+    "label": "LED light Board",
+    "value": "10",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-dash-kit",
+    "label": "Dash Kit",
+    "value": "11",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-trailer-sleeves",
+    "label": "Trailer Sleeves",
+    "value": "12",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-chassis-bars",
+    "label": "Chassis Bars",
+    "value": "13",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-step-bars",
+    "label": "Step bars",
+    "value": "14",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-mud-flaps",
+    "label": "Mud Flaps",
+    "value": "15",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-wheel-trims",
+    "label": "Wheel Trims",
+    "value": "16",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-dirt-front-deflectors",
+    "label": "Dirt / Front Deflectors",
+    "value": "17",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-top-corner-spoiler",
+    "label": "Top Corner Spoiler",
+    "value": "18",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-advertising-plate",
+    "label": "Advertising Plate",
+    "value": "19",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-low-bar-wraparound",
+    "label": "Low Bar (Wraparound)",
+    "value": "20",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-mirror-cover",
+    "label": "Mirror Cover",
+    "value": "21",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-door-handle-cover",
+    "label": "Door Handle cover",
+    "value": "22",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-side-trims",
+    "label": "Side Trims",
+    "value": "23",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-nameboard",
+    "label": "Nameboard",
+    "value": "24",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-side-skirts",
+    "label": "Side Skirts",
+    "value": "25",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-drls",
+    "label": "DRL's",
+    "value": "26",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-perimeter-kit-top-strip",
+    "label": "Perimeter Kit Top Strip",
+    "value": "27",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-side-skirt-under-trim",
+    "label": "Side Skirt Under Trim",
+    "value": "28",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-mud-guard-top-strip",
+    "label": "Mud Guard Top Strip",
+    "value": "29",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-grill-trim",
+    "label": "Grill Trim",
+    "value": "30",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-pillar-strip",
+    "label": "Pillar Strip",
+    "value": "31",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-front-visor-top-strip",
+    "label": "Front Visor Top Strip",
+    "value": "32",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-fog-light-chrome-trim",
+    "label": "Fog Light Chrome Trim",
+    "value": "33",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-indicator-chrome-trim",
+    "label": "Indicator Chrome Trim",
+    "value": "34",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-logo-badge",
+    "label": "Logo Badge",
+    "value": "35",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-grill-air-flow-cover-trim",
+    "label": "Grill Air Flow Cover Trim",
+    "value": "36",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-chrome-number",
+    "label": "Chrome Number",
+    "value": "37",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-chrome-deflector-trim",
+    "label": "Chrome Deflector Trim",
+    "value": "38",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-chrome-fog-lamp-cover",
+    "label": "Chrome Fog Lamp Cover",
+    "value": "39",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-stainless-steel-sunvisor",
+    "label": "Stainless Steel Sunvisor",
+    "value": "40",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-chrome-side-step-indicator-panel-surround",
+    "label": "Chrome Side Step Indicator Panel Surround",
+    "value": "40",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-seat-covers",
+    "label": "Seat Covers",
+    "value": "42",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-wiper-blade-cover-chrome",
+    "label": "Wiper Blade Cover - Chrome",
+    "value": "43",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-side-skirt-top-trims",
+    "label": "Side Skirt Top Trims",
+    "value": "25T",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-door-handle-surround",
+    "label": "Door Handle Surround",
+    "value": "44",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-window-plates",
+    "label": "Window Plates",
+    "value": "45",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-wing-plates",
+    "label": "Wing Plates",
+    "value": "46",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-dirt-deflector-cover",
+    "label": "Dirt Deflector Cover",
+    "value": "47",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-mudguard-decor",
+    "label": "Mudguard Decor",
+    "value": "48",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-integrated-grill-bar",
+    "label": "Integrated Grill Bar",
+    "value": "49",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-universal-chrome-led-trim",
+    "label": "Universal Chrome LED Trim",
+    "value": "50",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-corner-of-grill-chrome-pieces",
+    "label": "Corner of Grill Chrome Pieces",
+    "value": "51",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-grill-arm",
+    "label": "Grill Arm",
+    "value": "52",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-indicator-cover-chrome",
+    "label": "Indicator Cover Chrome",
+    "value": "53",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-bumper-chrome-trim",
+    "label": "Bumper Chrome Trim",
+    "value": "54",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-chrome-mirror-arm-brackets",
+    "label": "Chrome Mirror Arm Brackets",
+    "value": "55",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-wiper-panel-trim",
+    "label": "Wiper Panel Trim",
+    "value": "56",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-head-light-chrome-trim",
+    "label": "Head Light Chrome Trim",
+    "value": "57",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-swords",
+    "label": "Swords",
+    "value": "58",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-window-trim-chrome",
+    "label": "Window Trim Chrome",
+    "value": "59",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-top-grill-chrome-trim",
+    "label": "Top Grill Chrome Trim",
+    "value": "60",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-door-handle-frame-chrome",
+    "label": "Door Handle Frame Chrome",
+    "value": "61",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-head-light-frame",
+    "label": "Head Light Frame",
+    "value": "62",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-single-grill-bar",
+    "label": "Single Grill Bar",
+    "value": "63",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-led-advertising-plate",
+    "label": "LED Advertising Plate",
+    "value": "64",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-front-roof-bar-digger",
+    "label": "Front Roof Bar (Digger)",
+    "value": "65",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-rear-roof-bar-digger",
+    "label": "Rear Roof Bar (Digger)",
+    "value": "66",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-light-bar-for-digger",
+    "label": "Light Bar for Digger",
+    "value": "67",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-y-piece-between-axis",
+    "label": "Y-PIECE BETWEEN AXIS",
+    "value": "68",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-led-light-board-controller",
+    "label": "LED light Board Controller",
+    "value": "69",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-wind-deflector-bottom-trim",
+    "label": "Wind Deflector Bottom Trim",
+    "value": "70",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-fog-lamps",
+    "label": "Fog Lamps",
+    "value": "71",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-universal-small-spot-light-bar",
+    "label": "Universal Small Spot Light Bar",
+    "value": "72",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-side-marker-lamp",
+    "label": "Side Marker Lamp",
+    "value": "73",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-indicator-corner-marker-lamp",
+    "label": "Indicator Corner Marker Lamp",
+    "value": "74",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-antenna-holder",
+    "label": "Antenna Holder",
+    "value": "75",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-middle-of-grill-chrome-trim",
+    "label": "Middle of Grill Chrome Trim",
+    "value": "76",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-wheels",
+    "label": "Truck Wheels",
+    "value": "77",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-head-light-eyelids",
+    "label": "Head Light Eyelids",
+    "value": "78",
+    "categoryId": "truck"
+  }
+]

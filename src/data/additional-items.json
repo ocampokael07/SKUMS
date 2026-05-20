@@ -1,0 +1,14 @@
+[
+  {
+    "id": "flush-led",
+    "label": "Flush LED",
+    "value": "FL",
+    "categoryId": "truck"
+  },
+  {
+    "id": "slim-led",
+    "label": "Slim LED",
+    "value": "SL",
+    "categoryId": "truck"
+  }
+]

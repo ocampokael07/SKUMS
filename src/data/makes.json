@@ -1,0 +1,263 @@
+[
+  {
+    "id": "truck-scania",
+    "label": "Scania",
+    "value": "1",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-volvo",
+    "label": "Volvo",
+    "value": "2",
+    "categoryId": "truck"
+  },
+  { "id": "truck-daf", "label": "DAF", "value": "3", "categoryId": "truck" },
+  { "id": "truck-man", "label": "MAN", "value": "4", "categoryId": "truck" },
+  {
+    "id": "truck-renault",
+    "label": "Renault",
+    "value": "5",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-iveco",
+    "label": "Iveco",
+    "value": "6",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-mercedes",
+    "label": "Mercedes",
+    "value": "7",
+    "categoryId": "truck"
+  },
+  {
+    "id": "mitsubishi",
+    "label": "Mitsubishi",
+    "value": "8",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-american-style",
+    "label": "American Style",
+    "value": "9",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-isuzu",
+    "label": "Isuzu",
+    "value": "10",
+    "categoryId": "truck"
+  },
+  { "id": "truck-sino", "label": "Sino", "value": "11", "categoryId": "truck" },
+  {
+    "id": "truck-foden",
+    "label": "Foden",
+    "value": "13",
+    "categoryId": "truck"
+  },
+  {
+    "id": "truck-nissan",
+    "label": "Nissan",
+    "value": "14",
+    "categoryId": "truck"
+  },
+  { "id": "truck-ford", "label": "Ford", "value": "15", "categoryId": "truck" },
+  {
+    "id": "truck-universal",
+    "label": "Universal",
+    "value": "16",
+    "categoryId": "truck"
+  },
+  {
+    "id": "van-ford",
+    "label": "Ford (Van)",
+    "value": "1",
+    "categoryId": "van-mpv"
+  },
+  {
+    "id": "van-volkswagen",
+    "label": "Volkswagen (VW)",
+    "value": "2",
+    "categoryId": "van-mpv"
+  },
+  {
+    "id": "van-mercedes",
+    "label": "Mercedes",
+    "value": "3",
+    "categoryId": "van-mpv"
+  },
+  {
+    "id": "van-renault",
+    "label": "Renault",
+    "value": "4",
+    "categoryId": "van-mpv"
+  },
+  {
+    "id": "van-vauxhall-opel",
+    "label": "Vauxhall / Opel",
+    "value": "5",
+    "categoryId": "van-mpv"
+  },
+  { "id": "van-fiat", "label": "Fiat", "value": "6", "categoryId": "van-mpv" },
+  {
+    "id": "van-citroen",
+    "label": "Citroen",
+    "value": "7",
+    "categoryId": "van-mpv"
+  },
+  {
+    "id": "van-peugeot",
+    "label": "Peugeot",
+    "value": "8",
+    "categoryId": "van-mpv"
+  },
+  {
+    "id": "van-nissan",
+    "label": "Nissan",
+    "value": "9",
+    "categoryId": "van-mpv"
+  },
+  {
+    "id": "van-hyundai",
+    "label": "Hyundai",
+    "value": "10",
+    "categoryId": "van-mpv"
+  },
+  {
+    "id": "van-iveco",
+    "label": "Iveco",
+    "value": "11",
+    "categoryId": "van-mpv"
+  },
+  { "id": "van-ldv", "label": "LDV", "value": "12", "categoryId": "van-mpv" },
+  {
+    "id": "van-toyota",
+    "label": "Toyota",
+    "value": "13",
+    "categoryId": "van-mpv"
+  },
+  { "id": "van-man", "label": "MAN", "value": "14", "categoryId": "van-mpv" },
+  {
+    "id": "van-universal",
+    "label": "Universal",
+    "value": "20",
+    "categoryId": "van-mpv"
+  },
+  { "id": "4x4-audi", "label": "Audi", "value": "1", "categoryId": "4x4" },
+  { "id": "4x4-bmw", "label": "BMW", "value": "2", "categoryId": "4x4" },
+  { "id": "4x4-ford", "label": "Ford", "value": "3", "categoryId": "4x4" },
+  {
+    "id": "4x4-hyundai",
+    "label": "Hyundai",
+    "value": "4",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-isuzu", "label": "Isuzu", "value": "5", "categoryId": "4x4" },
+  { "id": "4x4-kia", "label": "Kia", "value": "6", "categoryId": "4x4" },
+  {
+    "id": "4x4-mitsubishi",
+    "label": "Mitsubishi",
+    "value": "7",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-nissan", "label": "Nissan", "value": "8", "categoryId": "4x4" },
+  { "id": "4x4-toyota", "label": "Toyota", "value": "9", "categoryId": "4x4" },
+  {
+    "id": "4x4-volkswagen",
+    "label": "Volkswagen (VW)",
+    "value": "10",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-suzuki", "label": "Suzuki", "value": "11", "categoryId": "4x4" },
+  {
+    "id": "4x4-land-rover",
+    "label": "Land Rover",
+    "value": "12",
+    "categoryId": "4x4"
+  },
+  {
+    "id": "4x4-opel-vauxhall",
+    "label": "Opel / Vauxhall",
+    "value": "13",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-honda", "label": "Honda", "value": "14", "categoryId": "4x4" },
+  {
+    "id": "4x4-volvo-suv",
+    "label": "Volvo",
+    "value": "15",
+    "categoryId": "4x4"
+  },
+  {
+    "id": "4x4-mercedes-suv",
+    "label": "Mercedes",
+    "value": "16",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-mazda", "label": "Mazda", "value": "17", "categoryId": "4x4" },
+  {
+    "id": "4x4-peugeot",
+    "label": "Peugeot",
+    "value": "18",
+    "categoryId": "4x4"
+  },
+  {
+    "id": "4x4-range-rover",
+    "label": "Range Rover",
+    "value": "19",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-skoda", "label": "Skoda", "value": "20", "categoryId": "4x4" },
+  { "id": "4x4-jeep", "label": "Jeep", "value": "21", "categoryId": "4x4" },
+  { "id": "4x4-seat", "label": "Seat", "value": "22", "categoryId": "4x4" },
+  { "id": "4x4-dacia", "label": "Dacia", "value": "23", "categoryId": "4x4" },
+  {
+    "id": "4x4-renault",
+    "label": "Renault",
+    "value": "24",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-fiat", "label": "Fiat", "value": "25", "categoryId": "4x4" },
+  {
+    "id": "4x4-chevrolet",
+    "label": "Chevrolet",
+    "value": "26",
+    "categoryId": "4x4"
+  },
+  {
+    "id": "4x4-porsche",
+    "label": "Porsche",
+    "value": "27",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-ldv", "label": "LDV", "value": "28", "categoryId": "4x4" },
+  {
+    "id": "4x4-ssangyong",
+    "label": "SsangYong",
+    "value": "29",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-subaru", "label": "Subaru", "value": "31", "categoryId": "4x4" },
+  { "id": "4x4-jaguar", "label": "Jaguar", "value": "32", "categoryId": "4x4" },
+  { "id": "4x4-lexus", "label": "Lexus", "value": "33", "categoryId": "4x4" },
+  {
+    "id": "4x4-chrysler",
+    "label": "Chrysler",
+    "value": "34",
+    "categoryId": "4x4"
+  },
+  {
+    "id": "4x4-great-wall",
+    "label": "Great Wall",
+    "value": "35",
+    "categoryId": "4x4"
+  },
+  {
+    "id": "4x4-citroen",
+    "label": "Citroen",
+    "value": "36",
+    "categoryId": "4x4"
+  },
+  { "id": "4x4-byd", "label": "BYD", "value": "37", "categoryId": "4x4" }
+]
